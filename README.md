@@ -9,6 +9,9 @@ In Technology - Despite selling more Phones, the profit margin is less in it. On
 ![Sample superstore - Selected](https://user-images.githubusercontent.com/105625298/177041640-4d15251b-d776-4827-b0dd-e73807494d73.png)
 
 
+
+
+
 The image below captures the Power BI Report of Sample Super store.
 
 ![Sample super store - Complete overview](https://user-images.githubusercontent.com/105625298/177041707-752300a5-f71a-4b38-bfea-c2150e48a12b.png)
