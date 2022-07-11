@@ -1,4 +1,4 @@
-# Power_BI - Super-Store-Overview
+# Power_BI - Super_Store_Overview
 Captures Sales &amp; Profit insights of Super Store in Power BI
 
 A Power BI Report is created to analyse the performance of the Super Store. KPI's created are - Total Sales, Total Orders, Total Quantities,
